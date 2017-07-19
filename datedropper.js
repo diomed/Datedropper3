@@ -385,6 +385,60 @@
 					]
 				}
 			},
+			'hr' : {
+			 name : 'Croatian',
+			 gregorian : true,
+			 months : {
+					short: [
+						"sij",
+						"velj",
+						"ožu",
+						"tra",
+						"svi",
+						"lip",
+						"srp",
+						"kol",
+						"ruj",
+						"lis",
+						"stu",
+						"pro"
+					],
+					full : [
+						"siječnja",
+						"veljače",
+						"ožujka",
+						"travnja",
+						"svibnja",
+						"lipnja",
+						"srpnja",
+						"kolovoza",
+						"rujna",
+						"listopada",
+						"studenog",
+						"prosinca"
+					]
+				},
+				weekdays : {
+					short : [
+						'n',
+						'p',
+						'u',
+						's',
+						'č',
+						'p',
+						's'
+					],
+					full : [
+						'nedjelja',
+						'ponedjeljak',
+						'utorak',
+						'srijeda',
+						'četvrtak',
+						'petak',
+						'subota'
+					]
+				}
+			},
 			'hu' : {
 				name : 'Hungarian',
 				gregorian : true,
