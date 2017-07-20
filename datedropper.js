@@ -404,18 +404,18 @@
 						"pro"
 					],
 					full : [
-						"siječnja",
-						"veljače",
-						"ožujka",
-						"travnja",
-						"svibnja",
-						"lipnja",
-						"srpnja",
-						"kolovoza",
-						"rujna",
-						"listopada",
-						"studenog",
-						"prosinca"
+						"siječanj",
+						"veljača",
+						"ožujak",
+						"travanj",
+						"svibanj",
+						"lipanj",
+						"srpanj",
+						"kolovoz",
+						"rujan",
+						"listopad",
+						"studeni",
+						"prosinac"
 					]
 				},
 				weekdays : {
